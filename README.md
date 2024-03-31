@@ -1,0 +1,1 @@
+Hi! My name is Vicent Caselles Ballester. I am a Bioinformatics and Biostatistcs MSc student with a background in Biotech. I am somewhat of a novice in coding/programming/computer science, but I am very eager to learn and very curious. My interests are health sciences and maths, specially graph theory (or should I say network science?).
